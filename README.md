@@ -3,6 +3,7 @@
 -Both algorithms are fundamental to machine learning and are widely used for various purposes like text classification, spam detection, sentiment analysis, and more.
 
 Features:-
+
 - Naive Bayes Classification- Multinomial Naive Bayes
 - Gaussian Naive Bayes
 
